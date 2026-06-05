@@ -1,9 +1,9 @@
 const cacheName = "VRothers E.I.R.L.-VRothers Festa-0.1";
 const contentToCache = [
     "Build/5336a4b2c43054286fd70b1faa467eee.loader.js",
-    "Build/f6d048cb1579a1324e3aa83d871b89f4.framework.js.unityweb",
-    "Build/ac69f5c3fbbb27ed463a1093466e0647.data.unityweb",
-    "Build/31ac0c8aedcd77b01c1f3c9969a5cff1.wasm.unityweb",
+    "Build/fba82e5941c4cf6affba9cf6f65b1ab9.framework.js.unityweb",
+    "Build/9e6d5af64d90382deb602e6313ba2dbb.data.unityweb",
+    "Build/d3d94032af91ec242a8c608f131bd164.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
